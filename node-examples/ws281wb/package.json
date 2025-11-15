@@ -1,0 +1,9 @@
+{
+  "name": "ws2812b-led-hat-node-example",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "node-web-gpio": "latest"
+  }
+}
